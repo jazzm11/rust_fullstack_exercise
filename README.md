@@ -1,2 +1,2 @@
-# Rust Fullstack exercise
-## Using actix
+# Rust Fullstack Exercise
+## Using Axum, Tokio and Serde
